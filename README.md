@@ -1,7 +1,7 @@
 A simple web-based unit converter that supports Length, Weight, and Temperature conversions.
 
-**Project URL** https://roadmap.sh/projects/unit-converter
-**Repository** https://github.com/KL-Bro/Unit-converter
+ - **Project URL** https://roadmap.sh/projects/unit-converter
+ - **Repository** https://github.com/KL-Bro/Unit-converter
 
 ## Features
 
